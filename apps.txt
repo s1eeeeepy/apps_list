@@ -1,0 +1,3 @@
+evince
+imv
+mpv
