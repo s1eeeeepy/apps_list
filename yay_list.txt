@@ -1,0 +1,2 @@
+sherlock-git
+crow-translate
