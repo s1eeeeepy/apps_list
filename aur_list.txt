@@ -1,3 +1,2 @@
 sherlock-git
 crow-translate
-youtube-music-bin 
