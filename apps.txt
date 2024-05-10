@@ -3,3 +3,4 @@ imv
 mpv
 github-cli
 extra/perl-image-exiftool
+inetutils
