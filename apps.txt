@@ -4,3 +4,11 @@ mpv
 github-cli
 extra/perl-image-exiftool
 inetutils
+extra/bind
+torbrowser-launcher
+metasploit
+hydra
+nikto
+netcat
+wireshark-qt
+wireshark-cli

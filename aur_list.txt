@@ -1,2 +1,6 @@
 sherlock-git
 crow-translate
+spotify-adblock
+surfshark-client
+nessus
+burpsuite
