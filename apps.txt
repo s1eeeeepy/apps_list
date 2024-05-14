@@ -12,3 +12,8 @@ nikto
 netcat
 wireshark-qt
 wireshark-cli
+traceroute
+whois
+openvpn
+samba
+tcpdump

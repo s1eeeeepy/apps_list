@@ -4,3 +4,4 @@ spotify-adblock
 surfshark-client
 nessus
 burpsuite
+enum4linux
