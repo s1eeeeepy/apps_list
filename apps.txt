@@ -17,3 +17,11 @@ whois
 openvpn
 samba
 tcpdump
+zoxide
+p7zip
+gzip
+tar
+unzip
+wget
+python-pip
+fzf
