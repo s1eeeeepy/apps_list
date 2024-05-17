@@ -1,0 +1,5 @@
+# Zoxide
+eval "$(zoxide init --cmd cd zsh)"
+
+# Crow translate
+alias cr='crow -b -e google -t ru'
