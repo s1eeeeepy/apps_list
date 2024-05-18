@@ -1,5 +1,15 @@
-# Zoxide
+# zoxide
 eval "$(zoxide init --cmd cd zsh)"
 
-# Crow translate
-alias cr='crow -b -e google -t ru'
+# crow translate
+alias cr="crow -b -e google -t ru"
+
+# fzf for shell completion
+eval "$(fzf --zsh)"
+
+# cat to bat
+alias cat="bat"
+export BAT_THEME=Nord
+
+# fuck
+eval $(thefuck --alias)
