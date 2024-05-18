@@ -5,3 +5,6 @@ surfshark-client
 nessus
 burpsuite
 enum4linux
+cava
+emote
+spicetify-cli
