@@ -9,3 +9,4 @@ cava
 emote
 spicetify-cli
 gobuster
+responder

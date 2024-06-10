@@ -32,3 +32,5 @@ btop
 hashcat
 nmap
 redis
+mariadb-clients
+net-tools
