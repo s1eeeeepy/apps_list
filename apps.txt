@@ -28,3 +28,7 @@ fzf
 bat
 tldr
 thefuck
+btop
+hashcat
+nmap
+redis
