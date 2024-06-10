@@ -10,3 +10,4 @@ emote
 spicetify-cli
 gobuster
 responder
+ruby-evil-winrm
