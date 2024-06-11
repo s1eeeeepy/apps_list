@@ -1,7 +1,5 @@
 #! /bin/bash
 
-read app
+echo $1 >> ~/apps_list/apps.txt
 
-echo $app >> ~/apps_list/apps.txt
-
-echo $app added to apps.txt
+echo $1 added to apps.txt
