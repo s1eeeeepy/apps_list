@@ -13,3 +13,4 @@ responder
 ruby-evil-winrm
 beaver-notes
 yandex-music
+zen-browser-bin
