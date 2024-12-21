@@ -12,3 +12,4 @@ gobuster
 responder
 ruby-evil-winrm
 beaver-notes
+yandex-music
