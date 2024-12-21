@@ -36,3 +36,4 @@ mariadb-clients
 net-tools
 john
 aws-cli
+qbittorrent
