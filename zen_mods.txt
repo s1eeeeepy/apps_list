@@ -1,0 +1,11 @@
+PywalZen
+Sidebar Expand on Hover
+Now playing indicator
+Better Active Tab
+Fluid URL
+Only Close On Hover
+SuperPins
+Tab Numbers
+Colored container tab
+Animations Plus
+
